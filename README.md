@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Hello
 ## Hi, I'm Garrett<br><br> I'm currently a student at the University of Texas finishing up my Bachelor's degree in Economics.<br/><br> To enhance my Data Analyst skills, I've taken plenty of classes in statistics and data science/analysis.<br/><br> I also finished the Google Coursera Certificate in Data Analysis!<br><br>- I’m currently finishing a scraping project in python for the Texas Softball Team!<br>- I’m currently gaining insights through the book: Analyzing Baseball Data with R<br>- I would like to learn more about regression and predictive models<br>- Fun fact: I can name the capital of every country in the World...on a good day
 
 
